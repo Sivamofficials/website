@@ -153,7 +153,7 @@ button:hover {
   text-transform: uppercase;
   -webkit-text-fill-color: transparent;
   background: -webkit-linear-gradient(transparent, transparent);
-  background: url(https://raw.githubusercontent.com/Sivamofficials/website/main/xxx/images/bg.jpg) repeat 0px 0px;
+  background: url(xxx/images/bg.jpg) repeat 0px 0px;
   background-size: contain;
   background: -o-linear-gradient(transparent, transparent);
   -webkit-background-clip: text;
